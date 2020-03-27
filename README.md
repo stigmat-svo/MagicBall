@@ -19,4 +19,4 @@ The game is written in the Ruby programming language.
 
 To start the game, in the terminal, go to the folder with the game file, and run the command:
 
-```**ruby 8ball.rb**```
+```ruby 8ball.rb```
